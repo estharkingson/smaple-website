@@ -1,0 +1,12 @@
+html{
+    background:#A4F6A2 ;
+}
+table,tr,th,td{
+    border: 1px solid bisque;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+p{
+    color: #052152;
+}
